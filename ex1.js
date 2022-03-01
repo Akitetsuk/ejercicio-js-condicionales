@@ -10,3 +10,4 @@ else {
     console.log("Guau!")
 }
 
+//mostrara miau ja que 2 es menor que 1 
